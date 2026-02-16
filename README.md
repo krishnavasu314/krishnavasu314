@@ -1,11 +1,11 @@
 
 
-<h1 align="center">I'm Vasu Krishna | AI Engineer in Progress 🚀</h1>
+<h1 align="center">I'm Vasu Krishna <h1>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Django+Developer;AI+Agent+Builder;Full+Stack+Engineer;Learning+DevOps+%26+Cloud&center=true&width=600&height=50&color=00F7FF&background=000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Agent+Builder;Full+Stack+Engineer;Trainee+DevOps+%26+Cloud&center=true&width=600&height=50&color=00F7FF&background=000000" />
 </p>
 
 ---
@@ -38,11 +38,7 @@
 
 ---
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnavasu314&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
